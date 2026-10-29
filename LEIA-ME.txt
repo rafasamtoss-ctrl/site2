@@ -1,0 +1,18 @@
+L2PVPBRASIL — SITE PHP
+
+INSTALAÇÃO NO WAMP
+1. Extraia a pasta l2pvpbrasil para C:\wamp64\www\
+2. Inicie o WampServer.
+3. Acesse http://localhost/l2pvpbrasil/
+
+CARACTERÍSTICAS
+- Layout responsivo inspirado na referência enviada.
+- Menu: Home, Cadastrar, Downloads, Informações, Suporte, Regras, Doações, Fórum e Ranking.
+- Painéis laterais de usuário, status, galeria, links rápidos e suporte.
+- Contagem regressiva configurável em js/site.js.
+- Páginas em PHP, CSS e JavaScript; não exige banco de dados para abrir.
+
+IMPORTANTE
+Esta é uma base visual funcional, mas os dados de status, jogadores e ranking são demonstrativos. Login e cadastro não autenticam nem criam contas reais. Para ativar essas funções, é necessário integrar com o banco/sistema de contas do emulador L2J ou L2OFF. Substitua também os links de cliente, patch, doações e redes sociais pelos seus links reais.
+
+A imagem de referência foi usada como base visual para os recortes de demonstração. Substitua os arquivos em assets/ por artes próprias do seu servidor, se desejar.
